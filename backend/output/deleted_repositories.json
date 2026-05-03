@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T04:37:27.694Z",
-  "count": 51,
+  "generated_at": "2026-05-03T03:15:50.391Z",
+  "count": 60,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -10,10 +10,15 @@
     "BurntRouter/rust-rcon",
     "CheeZeDark/leaked_new_rust_plugins_AI_Dumped",
     "CherrySofts/https-slivrust-plugin.ru-",
+    "Cl1cker0/lua-scripts",
     "EHCanadian/Oxide_Rust_Decompiled",
+    "Hardcore-fs/PlayerAdministration",
+    "Hardcore-fs/Tebex-Oxide",
+    "Hardcore-fs/oxideplugins",
     "PsixXxrus/MyTask",
     "REALJasonAU/maze-test",
     "RustyyTown/plugins",
+    "VoodooCor/rust-server-plugins",
     "Wrath-age/TheAddiction",
     "Wrath-age/TheAddictionPlugins",
     "Wrath-age/TheAddictionSite",
@@ -33,6 +38,9 @@
     "fuflik52/rustt",
     "fuflik52/umod-plugins",
     "gjdunga/Oxide.Rust",
+    "greggianbayocboc/rust-simple-mods",
+    "its-snapple/Carbon.Common",
+    "its-snapple/Carbon.Modules",
     "l0cks-acab/BMChecker",
     "l0cks-acab/BlackJackGamble",
     "l0cks-acab/ChickenGun",
@@ -51,6 +59,7 @@
     "l0cks-acab/SAMSiteReach",
     "l0cks-acab/SpawnHorde",
     "l0cks-acab/StatTracker",
+    "razorfish-sl/PlayerAdministration-1",
     "ryanscarpelli/TradeLog",
     "st-little/rust-plugin-development"
   ]
